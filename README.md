@@ -9,11 +9,12 @@ Basic CRUD operations (Create, Read, Update, Delete).
 - Java 17  
 - Spring Boot  
 - Spring Data JPA  
-- H2 Database  
+- Postgres
 
 ## Installation & Run
 git clone https://github.com/youruser/apirest-products.git  
 cd apirest-products  
+<!-- Falta aregar los pasos para el dockerfile-compose-->
 ./mvnw spring-boot:run  
 
 ## Endpoints
